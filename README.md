@@ -4,7 +4,7 @@ A simple Java application to calculate Body Mass Index (BMI) based on user input
 
 ## Features
 
-- Calculates BMI using metric (kg/m) or imperial (lbs/in) units
+- Calculates BMI using metric (kg/m)
 - Classifies result into standard BMI categories
 - Clean console interface
 - Input validation
